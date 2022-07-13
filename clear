@@ -1,0 +1,17 @@
+[33mcommit a08e30648e4def9edd6735b4d011703a2a69f11e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mfeature[m[33m)[m
+Author: niv levin <nivlevin46@walla.com>
+Date:   Wed Jul 13 22:11:28 2022 +0300
+
+    added new feature
+
+[33mcommit dee997c4f82b6fd4907bb33ebd5b8a6b0606cf5c[m
+Author: niv levin <nivlevin46@walla.com>
+Date:   Wed Jul 13 21:38:27 2022 +0300
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit e84dd92877c6d34f24617983ba4a7db81872664e[m
+Author: niv levin <nivlevin46@walla.com>
+Date:   Wed Jul 13 21:28:58 2022 +0300
+
+    added text.txt file
